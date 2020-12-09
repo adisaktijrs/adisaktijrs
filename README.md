@@ -1,6 +1,6 @@
 ## Hi folks, I am Adi Sakti Jrs 👋
 
-A fourth-year college student (not yet graduated, but ASAP! For real! 🤷‍♂️) and web developer from Indonesia 🇮🇩
+A fourth-year college student and web developer from Indonesia 🇮🇩
 
 I love building web stuff with [Node.js](http://nodejs.org/), Vanilla [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), and [PHP](https://www.php.net/). I also love using [Express.js](http://expressjs.com/) + [EJS](http://ejs.co/) for SSR web and [Hexo.js](https://hexo.io/) for SSG. Currently learning [Laravel](https://laravel.com/) and [React](https://reactjs.org/) 😁
 
