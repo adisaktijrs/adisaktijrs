@@ -1,8 +1,9 @@
 ## Hi folks, I am Adi Sakti Jrs 👋
 
-A final year college student and web developer from Indonesia 🇮🇩 \
-I love building web stuff with JavaScript, [Express](https://expressjs.com/), and [React](https://reactjs.org/).\
-You can reach me on [adhisakti47@gmail.com](mailto:adhisakti47@gmail.com)
+A passionate software engineer from Indonesia 🇮🇩 \
+I love building web apps with [TypeScript](https://www.typescriptlang.org/), [NestJS](https://nestjs.com/), and [React](https://reactjs.org/).\
+Let's collaborate: [adhisakti47@gmail.com](mailto:adhisakti47@gmail.com)
 
-[![](https://img.shields.io/badge/-Express-gray?style=flat-square&labelColor=000000&logo=Express&logoColor=white)](https://expressjs.com/)
+[![](https://img.shields.io/badge/-TypeScript-gray?style=flat-square&labelColor=3178C6&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/-NestJS-gray?style=flat-square&labelColor=E0234E&logo=Nestjs&logoColor=white)](https://nestjs.com/)
 [![](https://img.shields.io/badge/-React-gray?style=flat-square&labelColor=61DAFB&logo=react&logoColor=white)](https://reactjs.org/)
